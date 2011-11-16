@@ -1,0 +1,16 @@
+{
+  "author": "Geoff Wagstaff <geoff@gosquared.com> (thedeveloper.github.com)",
+  "name": "flexiSearch",
+  "description": "A node.js client for elasticsearch",
+  "version": "0.1.0",
+  "homepage": "github.com/TheDeveloper/flexisearch",
+  "repository": {
+    "type": "git",
+    "url": "github.com/TheDeveloper/flexisearch.git"
+  },
+  "engines": {
+    "node": "~0.4.8"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
